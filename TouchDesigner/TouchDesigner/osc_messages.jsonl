@@ -1,0 +1,3 @@
+{"type": "msg", "body": "{\"sender\": \"Matt\", \"body\": \"Hello TD\", \"timestamp\": \"now\"}", "timestamp": 1780612261.7968674, "sender": "<td.Peer object at 0x0000015F4F8CECD0>", "address": "/chat"}
+{"type": "msg", "body": "{\"sender\": \"Mttatt\", \"body\": \"Heltttlo TD\", \"timestamp\": \"nttow\"}", "timestamp": 1780612273.9607148, "sender": "<td.Peer object at 0x0000015F4F8CECD0>", "address": "/chat"}
+{"type": "msg", "body": "{\"sender\": \"Miket\", \"body\": \"Hgg\", \"timestamp\": \"555w\"}", "timestamp": 1780612301.5949628, "sender": "<td.Peer object at 0x0000015F4F8CECD0>", "address": "/chat"}
